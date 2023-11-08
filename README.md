@@ -30,16 +30,16 @@ You can install OpenCV using pip:
 
 ## Instalations
 
-1. Clone this repository to your local machine:
+* 1. Clone this repository to your local machine:
 `git clone https://github.com/sathvik995/Python-color-detection.git`
-2. Navigate to the project directory: 
+* 2. Navigate to the project directory: 
 `cd color-detection`
 
 ## Usage
-1. Open a command prompt or terminal.
-2.Navigate to the project directory:
+* 1. Open a command prompt or terminal.
+* 2.Navigate to the project directory:
 `cd /path/to/your/color-detection-directory`
-3.Run the color detection script with your image file as an argument:
+* 3.Run the color detection script with your image file as an argument:
 `python color_detection.py -i path_to_your_image.jpg`
 
 
