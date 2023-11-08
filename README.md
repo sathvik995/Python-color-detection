@@ -25,9 +25,9 @@ Before using this color detection tool, make sure you have the following prerequ
 - OpenCV (Open Source Computer Vision Library)
 
 You can install OpenCV using pip:
-
+```bash
 pip install opencv-python
-
+```bash
 ## Instalations
 
 ### 1. Clone this repository to your local machine:
