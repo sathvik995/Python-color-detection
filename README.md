@@ -28,7 +28,7 @@ You can install OpenCV using pip:
 
 ```bash
 pip install opencv-python
-
+bash```
 
 ## Instalations
 
